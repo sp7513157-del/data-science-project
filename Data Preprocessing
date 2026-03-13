@@ -1,0 +1,5 @@
+The following preprocessing steps were applied:
+- Handling missing values
+- Removing duplicate records
+- Data formatting and transformation
+- Feature selection
